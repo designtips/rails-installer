@@ -1,0 +1,1 @@
+document.getElementById('disqus_thread').innerHTML = 'We were unable to load Disqus. If you are a moderator please see our <a href="http://docs.disqus.com/help/83/">troubleshooting guide</a>.';
